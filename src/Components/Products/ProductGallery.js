@@ -2,6 +2,8 @@ import React from "react";
 import "react-image-gallery/styles/css/image-gallery.css";
 import ImageGallery from "react-image-gallery";
 import mobile from '../../Images/mobile.png'
+import mobile2 from '../../Images/mobile1.png'
+import mobile3 from '../../Images/mobile2.png'
 import LeftButton from "./LeftButton";
 import RightButton from "./RightButton";
 const ProductGallery = () => {
@@ -10,10 +12,10 @@ const ProductGallery = () => {
           original: `${mobile}`,
         },
         {
-          original: `${mobile}`,
+          original: `${mobile2}`,
         },
         {
-          original: `${mobile}`,
+          original: `${mobile3}`,
         },
       ];
   return (

@@ -10,16 +10,15 @@ const ProductText = () => {
       <Row>
         <Col md="7">
           <div className="cat-title d-inline">
-             Xceptre Curved 24.5-inch Gaming Monitor up to 240Hz 1070p
-            R1500 1ms DisplayPort x2 HDMI x2 Blue Light
-            <div className="cat-rate d-inline mx-3">4.5</div>
+            Apple iPhone X, 64GB Unlocked - Gray
+            <div className="cat-rate d-inline mx-3">4.2</div>
           </div>
         </Col>
       </Row>
       <Row>
         <Col md="7" className="mt-4">
           <div className="cat-text d-inline">Brand :</div>
-          <div className="barnd-text d-inline mx-1">Sceptre </div>
+          <div className="barnd-text d-inline mx-1">Apple </div>
         </Col>
       </Row>
       <Row>
@@ -40,21 +39,23 @@ const ProductText = () => {
       </Row>
 
       <Row className="mt-4">
-        <div className="cat-text">About  :</div>
+        <div className="cat-text">About :</div>
       </Row>
       <Row className="mt-2">
         <Col md="10">
           <div className="product-description d-inline">
-            AMD FreeSync Premium: By accelerating the frame rate to at least
-            120Hz at 1080P FHD resolution and delivering low latency to prevent
-            visible delay in data processing, AMD FreeSync Premium allows
-            gameplay to reach the highest echelons of performance.
+            Unlocked and compatible with all service providers Worldwide Tested
+            for battery health and guaranteed to have a minimum battery capacity
+            of 80% Successfully passed a full diagnostic test which ensures
+            like-new functionality and removal of any prior-user personal
+            information. Includes Charger and Cable. Does not include the Sim
+            Card
           </div>
         </Col>
       </Row>
       <Row className="mt-4">
         <Col md="12">
-          <div className="product-price d-inline px-3 py-3 border">34000$</div>
+          <div className="product-price d-inline px-3 py-3 border">800$</div>
           <div className="product-cart-add px-3 py-3 d-inline mx-3">
             Add To Cart
           </div>

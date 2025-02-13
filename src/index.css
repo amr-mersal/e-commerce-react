@@ -79,9 +79,9 @@ body {
   width: 130px;
 }
 .categoty-card {
-  height: 140px;
+  height: 120px;
   width: 100%;
-  border-radius: 50%;
+  border-radius: 40%;
   opacity: 0.3;
 }
 
@@ -89,13 +89,12 @@ body {
   max-width: 110px;
   max-height: 100px;
   position: absolute;
-  top: 20%;
-  left: 10%;
+  top: 12%;
+  left: 12%;
 }
 .categoty-card-text {
   color: #555550;
-  font-family: Almarai;
-  font-size: 18px;
+  font-size: 15px;
   font-weight: bold;
   text-align: center;
 }
@@ -105,9 +104,10 @@ body {
 .card-title {
   color: #555550;
   font-family: Almarai;
-  font-size: 16px;
+  font-size: 15px;
   letter-spacing: 0;
   line-height: 20px;
+
 }
 .card-price {
   color: #272727;
@@ -637,8 +637,7 @@ body {
 }
 .filter-sub {
   color: #555550;
-  font-family: "Almarai";
-  font-size: 12px;
+  font-size: 11px;
   letter-spacing: 0;
   line-height: 17px;
   text-align: center;

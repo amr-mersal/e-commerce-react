@@ -10,7 +10,7 @@ const UserEditAddress = () => {
                     <input
                         type="text"
                         className="input-form d-block mt-3 px-3"
-                        value="المنزل"
+                        value="Home"
                         placeholder="تسمية العنوان مثلا(المنزل - العمل)"
                     />
                     <textarea

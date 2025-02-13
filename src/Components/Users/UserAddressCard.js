@@ -45,7 +45,7 @@ const UserAddressCard = () => {
                             fontFamily: "Almarai",
                             fontSize: "14px",
                         }}>
-                        القاهرة مدينه نصر شارع التسعين عماره ١٤
+                        القاهرة مدينه نصر شارع التسعين 
                     </div>
                 </Col>
             </Row>

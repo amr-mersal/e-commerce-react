@@ -6,48 +6,45 @@ const SideFilter = () => {
         <div className="mt-3">
         <Row>
           <div className="d-flex flex-column mt-2">
-            <div className="filter-title">الفئة</div>
+            <div className="filter-title">Category</div>
             <div className="d-flex mt-3">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">الكل</div>
+              <div className="filter-sub ms-1 me-2 ">All</div>
             </div>
             <div className="d-flex mt-2">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">اجهزة منزلية</div>
+              <div className="filter-sub me-2  ms-1"> Home appliances</div>
             </div>
             <div className="d-flex mt-2">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">اجهزة منزلية</div>
+              <div className="filter-sub me-2  ms-1">Mobiles </div>
             </div>
             <div className="d-flex mt-2">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">اجهزة منزلية</div>
-            </div>
-            <div className="d-flex mt-2">
-              <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">اجهزة منزلية</div>
+              <div className="filter-sub me-2  ms-1">
+              Toys and Games </div>
             </div>
           </div>
   
           <div className="d-flex flex-column mt-2">
-            <div className="filter-title mt-3">الماركة</div>
+            <div className="filter-title mt-3">Brand</div>
             <div className="d-flex mt-3">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">الكل</div>
+              <div className="filter-sub me-2 ms-1">All</div>
             </div>
             <div className="d-flex mt-2">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">ابل</div>
+              <div className="filter-sub me-2 ms-1 ">Apple</div>
             </div>
             <div className="d-flex mt-2">
               <input type="checkbox" value="" />
-              <div className="filter-sub me-2 ">سامسونج</div>
+              <div className="filter-sub me-2 ms-1 ">Samsung</div>
             </div>
           </div>
   
-          <div className="filter-title my-3">السعر</div>
+          <div className="filter-title my-3">Price</div>
           <div className="d-flex">
-            <p className="filter-sub my-2">من:</p>
+            <p className="filter-sub my-2">from:</p>
             <input
               className="m-2 text-center"
               type="number"
@@ -55,7 +52,7 @@ const SideFilter = () => {
             />
           </div>
           <div className="d-flex">
-            <p className="filter-sub my-2">الي:</p>
+            <p className="filter-sub my-2">To:</p>
             <input
               className="m-2 text-center"
               type="number"

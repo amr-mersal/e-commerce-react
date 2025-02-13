@@ -9,7 +9,7 @@ const UserProfile = () => {
                 <Row className="d-flex justify-content-between pt-2">
                     <Col xs="6" className="d-flex">
                         <div className="p-2">Name:</div>
-                        <div className="p-1 item-delete-edit">احمد عبداللة</div>
+                        <div className="p-1 item-delete-edit"> Amr</div>
                     </Col>
                     <Col xs="6" className="d-flex justify-content-end">
                         <div className="d-flex mx-2">
